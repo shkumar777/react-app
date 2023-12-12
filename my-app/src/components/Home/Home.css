@@ -1,0 +1,32 @@
+.responsive-image-container {
+    width: 100%; /* Add a width to the container */
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
+  .responsive-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+.text-overlay {
+    font-family: "Raleway";
+    font-weight: 500;
+    font-size: 76px;
+    text-align: center;
+    line-height: normal;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 5rem;
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    width: 100%;
+
+}
