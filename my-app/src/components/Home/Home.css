@@ -10,6 +10,12 @@
     display: block;
   }
 
+  .nav-style {
+    text-transform: uppercase;
+    transform: translate(-50%, -50%);
+
+  }
+
 .text-overlay {
     font-family: "Raleway";
     font-weight: 500;
